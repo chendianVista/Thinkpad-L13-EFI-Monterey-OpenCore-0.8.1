@@ -1673,7 +1673,7 @@
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>+HWkwBnV</data>
+			<data>FFTTl5c4</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
@@ -1683,7 +1683,7 @@
 			<key>SystemSerialNumber</key>
 			<string>C02C30VVML7H</string>
 			<key>SystemUUID</key>
-			<string>AE823DCE-8392-4E51-9517-155411F04116</string>
+			<string>22B1A3A4-D621-4A8C-9211-F1FD2C15998A</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
